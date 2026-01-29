@@ -1,2 +1,2 @@
 # Startup 101
-![](https://media.tenor.com/WmSEK62fuGEAAAAM/it-crowd.gif) ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVmMW1jY2hqNmprZG1mZmNjOGhqZHIyMXZwZ2F5ZmNhbWczeWF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ri5Hs2Dr2VGj6/giphy.gif) ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ozMGQyZnRheTJ2MmI3MGE2MDh3a3A1YzVhZXV3ajhiMjJtYXB5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GrkrL1cGVv0FW/giphy.gif) 
+![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVmMW1jY2hqNmprZG1mZmNjOGhqZHIyMXZwZ2F5ZmNhbWczeWF4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ri5Hs2Dr2VGj6/giphy.gif) ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ozMGQyZnRheTJ2MmI3MGE2MDh3a3A1YzVhZXV3ajhiMjJtYXB5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GrkrL1cGVv0FW/giphy.gif) 
